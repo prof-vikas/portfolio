@@ -32,7 +32,7 @@ Error generating stack: `+u.message+`
                        text-[color:var(--color-tealPrimary)]\r
                        hover:bg-[color:var(--color-tealPrimary)]\r
                        hover:text-white\r
-                       transition`,children:"View Projects"}),b.jsx("a",{href:"/resume.pdf",target:"_blank",rel:"noopener noreferrer",className:`px-6 py-3 rounded-md\r
+                       transition`,children:"View Projects"}),b.jsx("a",{href:"./resume.pdf",target:"_blank",rel:"noopener noreferrer",className:`px-6 py-3 rounded-md\r
                        bg-gray-900 text-white\r
                        dark:bg-white dark:text-gray-900\r
                        hover:opacity-80\r
