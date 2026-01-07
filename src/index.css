@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* Enable class-based dark mode (Tailwind v4) */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-tealPrimary: #14b8a6;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
